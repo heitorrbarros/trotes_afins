@@ -1,2 +1,10 @@
-# trotes_afins
-Respostas para os trotes que te passarem
+
+# Trotes 
+## Em casos de sequestros relampagos
+
+- Tentar negociar o valor.
+- Oferecer o dobro do valor solicitado
+- Trocadilhos:
+-- Já acabou com as asmas?
+-- Num tem eu né?
+-- Café

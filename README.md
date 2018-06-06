@@ -8,3 +8,4 @@
 -- Já acabou com as asmas?
 -- Num tem eu né?
 -- Café
+- Brincar com o nome do Borgi.
